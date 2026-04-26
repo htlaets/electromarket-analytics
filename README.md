@@ -117,6 +117,10 @@ python scripts/run_sql_analysis.py
 
 As a result of the analysis, the project identifies the most profitable product categories, evaluates marketing channel performance and segments customers based on purchasing behavior.
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard/screenshots/executive_overview.png)
+
 ## Author
 
 htlaets  
