@@ -1,0 +1,1001 @@
+﻿product_id,product_name,category,brand,price,cost
+P00001,Logitech Smart Home Model 1,Smart Home,Sony,22094.06,16820.83
+P00002,Logitech Smartphones Model 2,Smartphones,Apple,65046.33,42399.54
+P00003,Logitech Smartphones Model 3,Smartphones,Logitech,48432.23,28877.71
+P00004,Samsung Smartphones Model 4,Smartphones,Acer,103898.37,60155.43
+P00005,LG Accessories Model 5,Accessories,Lenovo,13097.01,9204.76
+P00006,Xiaomi Laptops Model 6,Laptops,Asus,174729.97,98919.98
+P00007,Sony Gaming Model 7,Gaming,Huawei,71474.61,48652.87
+P00008,Lenovo Gaming Model 8,Gaming,Huawei,20846.97,15334.91
+P00009,Asus Smartphones Model 9,Smartphones,Apple,140059.0,78904.11
+P00010,Samsung Headphones Model 10,Headphones,Acer,37990.17,23296.66
+P00011,Lenovo Smart Home Model 11,Smart Home,Huawei,49445.58,27365.85
+P00012,LG Gaming Model 12,Gaming,Xiaomi,31507.21,21333.63
+P00013,Sony Smart Home Model 13,Smart Home,LG,12621.16,9763.98
+P00014,Samsung TV Model 14,TV,Apple,52605.53,39409.81
+P00015,Acer Laptops Model 15,Laptops,Sony,90844.26,70912.98
+P00016,Samsung Accessories Model 16,Accessories,Xiaomi,10871.79,7295.12
+P00017,Acer Gaming Model 17,Gaming,LG,9983.95,7025.0
+P00018,Asus Gaming Model 18,Gaming,Samsung,10521.36,7851.33
+P00019,Lenovo Accessories Model 19,Accessories,Logitech,8246.92,6548.43
+P00020,Samsung Smartphones Model 20,Smartphones,Huawei,89268.86,63621.85
+P00021,LG Smart Home Model 21,Smart Home,Logitech,9221.9,7239.15
+P00022,Acer Gaming Model 22,Gaming,Samsung,46821.83,35021.52
+P00023,Acer Smartphones Model 23,Smartphones,Xiaomi,84526.81,67560.91
+P00024,Sony Accessories Model 24,Accessories,Xiaomi,13380.42,8973.24
+P00025,Logitech Accessories Model 25,Accessories,Logitech,12452.82,9097.37
+P00026,Xiaomi Gaming Model 26,Gaming,Lenovo,50009.85,27675.07
+P00027,Xiaomi Smartphones Model 27,Smartphones,Xiaomi,32195.76,18635.81
+P00028,Samsung TV Model 28,TV,Sony,132203.68,94072.24
+P00029,Lenovo Accessories Model 29,Accessories,Huawei,11998.29,8065.27
+P00030,Logitech Accessories Model 30,Accessories,Samsung,5533.54,4207.37
+P00031,Huawei Smartphones Model 31,Smartphones,LG,102266.98,75725.4
+P00032,Huawei Gaming Model 32,Gaming,Logitech,64116.03,51053.92
+P00033,Apple Gaming Model 33,Gaming,Samsung,55021.71,39236.78
+P00034,Huawei TV Model 34,TV,Lenovo,134713.87,95470.27
+P00035,Lenovo Gaming Model 35,Gaming,Xiaomi,75739.18,51166.32
+P00036,Samsung Smartphones Model 36,Smartphones,Lenovo,38512.64,25161.01
+P00037,Samsung Gaming Model 37,Gaming,Apple,114380.76,88626.77
+P00038,Sony Laptops Model 38,Laptops,Lenovo,115679.37,82321.91
+P00039,Lenovo Laptops Model 39,Laptops,Acer,174358.64,107266.99
+P00040,Sony Headphones Model 40,Headphones,Acer,18724.4,11618.5
+P00041,Sony Gaming Model 41,Gaming,Samsung,15691.93,12195.45
+P00042,Apple Laptops Model 42,Laptops,Sony,53539.99,35311.46
+P00043,Acer Headphones Model 43,Headphones,Apple,24793.41,16892.2
+P00044,Acer Gaming Model 44,Gaming,Lenovo,110870.85,81921.02
+P00045,Lenovo Smart Home Model 45,Smart Home,Samsung,30007.7,20135.57
+P00046,Apple Smartphones Model 46,Smartphones,LG,53143.36,33061.04
+P00047,Samsung Gaming Model 47,Gaming,Sony,12061.35,7378.73
+P00048,Acer Headphones Model 48,Headphones,Asus,19406.62,12808.57
+P00049,Apple Headphones Model 49,Headphones,Asus,36658.84,23710.81
+P00050,Samsung Smartphones Model 50,Smartphones,Sony,141734.17,78340.27
+P00051,Xiaomi Accessories Model 51,Accessories,Xiaomi,7629.32,5829.72
+P00052,Xiaomi Smartphones Model 52,Smartphones,Lenovo,135194.49,74669.74
+P00053,LG Headphones Model 53,Headphones,Xiaomi,7770.05,4364.36
+P00054,Xiaomi Gaming Model 54,Gaming,Sony,39634.04,24227.62
+P00055,Asus Gaming Model 55,Gaming,Samsung,82903.93,65643.48
+P00056,Apple Gaming Model 56,Gaming,Lenovo,63166.26,48996.38
+P00057,Huawei Smart Home Model 57,Smart Home,Xiaomi,59626.77,42398.7
+P00058,Acer Gaming Model 58,Gaming,LG,54797.08,33077.16
+P00059,Apple Gaming Model 59,Gaming,Lenovo,71024.04,51378.79
+P00060,Logitech Smart Home Model 60,Smart Home,Logitech,30980.7,19415.34
+P00061,LG Smartphones Model 61,Smartphones,LG,60154.88,37964.73
+P00062,Samsung Smartphones Model 62,Smartphones,Lenovo,42269.33,33494.49
+P00063,Acer Laptops Model 63,Laptops,Samsung,184572.21,129831.66
+P00064,Asus Smartphones Model 64,Smartphones,Acer,137059.0,83445.23
+P00065,Xiaomi Gaming Model 65,Gaming,Huawei,75812.67,45828.64
+P00066,Xiaomi Laptops Model 66,Laptops,Asus,122390.19,79073.78
+P00067,Asus TV Model 67,TV,Asus,132240.55,75720.06
+P00068,Asus Smartphones Model 68,Smartphones,Xiaomi,90934.17,53401.14
+P00069,Apple TV Model 69,TV,Sony,22499.8,13388.71
+P00070,Sony Gaming Model 70,Gaming,Huawei,116039.06,73653.13
+P00071,Samsung Headphones Model 71,Headphones,Xiaomi,34914.76,24466.91
+P00072,Xiaomi Smartphones Model 72,Smartphones,Xiaomi,80208.7,57540.98
+P00073,Asus Smart Home Model 73,Smart Home,Sony,12860.32,9260.56
+P00074,Acer Accessories Model 74,Accessories,Logitech,10865.28,7824.71
+P00075,Asus TV Model 75,TV,Xiaomi,148022.07,91340.27
+P00076,Apple TV Model 76,TV,Asus,128008.31,79690.09
+P00077,Huawei Gaming Model 77,Gaming,Logitech,104784.22,83189.56
+P00078,Sony TV Model 78,TV,Xiaomi,87470.99,50504.36
+P00079,Apple Smartphones Model 79,Smartphones,Logitech,104905.36,78202.47
+P00080,Xiaomi Laptops Model 80,Laptops,LG,110265.03,87740.79
+P00081,LG Headphones Model 81,Headphones,Asus,35412.21,22554.51
+P00082,Asus Laptops Model 82,Laptops,Samsung,187255.69,132255.02
+P00083,Lenovo Headphones Model 83,Headphones,Huawei,9984.01,5876.74
+P00084,Logitech Smartphones Model 84,Smartphones,Logitech,103279.38,76444.03
+P00085,LG Laptops Model 85,Laptops,Huawei,164494.0,120756.68
+P00086,Asus Smartphones Model 86,Smartphones,Asus,149207.47,97881.24
+P00087,Acer Accessories Model 87,Accessories,Acer,12859.04,9721.15
+P00088,Sony TV Model 88,TV,Xiaomi,91545.11,65371.53
+P00089,Lenovo Smart Home Model 89,Smart Home,Acer,27032.53,19889.7
+P00090,Sony Accessories Model 90,Accessories,Huawei,14432.7,11087.52
+P00091,Lenovo TV Model 91,TV,Huawei,93060.64,70222.93
+P00092,Lenovo Accessories Model 92,Accessories,Sony,672.22,389.3
+P00093,Huawei Gaming Model 93,Gaming,LG,9410.14,5239.29
+P00094,Sony Headphones Model 94,Headphones,Sony,39401.93,27012.88
+P00095,Xiaomi TV Model 95,TV,Asus,71487.51,45313.46
+P00096,Apple Headphones Model 96,Headphones,Huawei,21671.98,15127.06
+P00097,LG TV Model 97,TV,Logitech,144299.83,99683.59
+P00098,Sony Headphones Model 98,Headphones,Logitech,17556.7,10670.81
+P00099,Xiaomi TV Model 99,TV,LG,179372.31,120618.28
+P00100,Logitech Smartphones Model 100,Smartphones,Logitech,137143.92,103493.95
+P00101,Samsung Gaming Model 101,Gaming,LG,30344.79,20178.2
+P00102,Huawei TV Model 102,TV,Samsung,144749.5,100651.74
+P00103,Huawei Gaming Model 103,Gaming,Acer,119830.39,83531.52
+P00104,Sony Laptops Model 104,Laptops,Samsung,151880.46,112686.63
+P00105,LG TV Model 105,TV,Huawei,57637.53,44307.58
+P00106,Lenovo Headphones Model 106,Headphones,Xiaomi,17141.87,9548.64
+P00107,Samsung Gaming Model 107,Gaming,Asus,26126.58,15864.88
+P00108,LG Headphones Model 108,Headphones,Asus,8734.94,6224.74
+P00109,Asus TV Model 109,TV,Logitech,76991.55,50030.56
+P00110,Sony Gaming Model 110,Gaming,Acer,32124.21,23230.17
+P00111,Logitech Smart Home Model 111,Smart Home,Sony,43722.64,24266.12
+P00112,Lenovo Smart Home Model 112,Smart Home,LG,5461.08,3648.25
+P00113,Apple TV Model 113,TV,Samsung,137175.85,78166.31
+P00114,Sony Smart Home Model 114,Smart Home,Huawei,23257.68,13949.05
+P00115,Sony Smart Home Model 115,Smart Home,Huawei,39100.9,22248.89
+P00116,Xiaomi Accessories Model 116,Accessories,Sony,11430.48,8805.34
+P00117,Samsung Headphones Model 117,Headphones,Asus,2201.5,1616.66
+P00118,Xiaomi Accessories Model 118,Accessories,Sony,1166.75,810.86
+P00119,Huawei Gaming Model 119,Gaming,Acer,81712.85,52172.15
+P00120,Acer Headphones Model 120,Headphones,Asus,33268.51,20416.89
+P00121,Apple Smart Home Model 121,Smart Home,Lenovo,27208.64,19669.83
+P00122,Logitech Gaming Model 122,Gaming,Apple,114754.37,85323.99
+P00123,Asus Smart Home Model 123,Smart Home,Logitech,45374.28,35113.28
+P00124,Samsung Headphones Model 124,Headphones,Acer,17063.43,13316.36
+P00125,Apple Headphones Model 125,Headphones,Asus,15743.76,10941.94
+P00126,Asus TV Model 126,TV,Lenovo,54952.95,41215.63
+P00127,Samsung Headphones Model 127,Headphones,Logitech,36683.61,20678.22
+P00128,Lenovo TV Model 128,TV,Asus,54460.31,36929.62
+P00129,Asus Gaming Model 129,Gaming,Logitech,71488.65,49031.02
+P00130,Acer Accessories Model 130,Accessories,Asus,11911.0,7478.51
+P00131,Lenovo Accessories Model 131,Accessories,Asus,7276.7,4285.86
+P00132,LG TV Model 132,TV,LG,138196.98,76960.8
+P00133,LG Smart Home Model 133,Smart Home,Samsung,2057.53,1578.74
+P00134,Asus Accessories Model 134,Accessories,Lenovo,10129.05,7119.83
+P00135,Lenovo Gaming Model 135,Gaming,Xiaomi,52872.92,31142.79
+P00136,Asus Smart Home Model 136,Smart Home,Logitech,55154.99,42052.67
+P00137,Asus Smartphones Model 137,Smartphones,Apple,147678.34,81481.18
+P00138,Lenovo Smartphones Model 138,Smartphones,Apple,128664.69,101188.06
+P00139,LG Headphones Model 139,Headphones,Sony,18540.35,12288.75
+P00140,Lenovo Headphones Model 140,Headphones,Huawei,15648.47,11956.32
+P00141,Sony Laptops Model 141,Laptops,Logitech,197424.53,143526.23
+P00142,Lenovo Laptops Model 142,Laptops,Logitech,133898.07,87296.16
+P00143,Samsung TV Model 143,TV,Xiaomi,172719.36,124605.95
+P00144,Lenovo Laptops Model 144,Laptops,Asus,190133.08,124254.91
+P00145,LG Smart Home Model 145,Smart Home,Huawei,54512.81,36140.39
+P00146,Acer Laptops Model 146,Laptops,Xiaomi,129389.21,98916.99
+P00147,Xiaomi Smart Home Model 147,Smart Home,Sony,33388.08,22563.61
+P00148,LG TV Model 148,TV,Sony,46164.19,26481.27
+P00149,Samsung Gaming Model 149,Gaming,Xiaomi,107598.19,71109.5
+P00150,LG Laptops Model 150,Laptops,Acer,65077.11,47014.22
+P00151,Acer Smartphones Model 151,Smartphones,Samsung,87310.09,69677.76
+P00152,Huawei Smart Home Model 152,Smart Home,Acer,16303.19,11980.45
+P00153,Lenovo Accessories Model 153,Accessories,Sony,4659.39,2683.54
+P00154,Huawei Smartphones Model 154,Smartphones,Logitech,29056.84,19373.12
+P00155,Samsung Headphones Model 155,Headphones,Apple,5736.3,4548.66
+P00156,LG Laptops Model 156,Laptops,Lenovo,210192.64,162246.65
+P00157,Sony Laptops Model 157,Laptops,Huawei,120935.3,83392.74
+P00158,Sony Laptops Model 158,Laptops,Samsung,70401.65,44805.42
+P00159,Asus Headphones Model 159,Headphones,LG,6167.24,4187.46
+P00160,Lenovo Smart Home Model 160,Smart Home,Sony,38484.73,25500.63
+P00161,Huawei Headphones Model 161,Headphones,Asus,13994.25,7826.66
+P00162,Sony Headphones Model 162,Headphones,Samsung,23867.74,18057.68
+P00163,Apple Accessories Model 163,Accessories,Logitech,9336.52,6712.96
+P00164,Asus Smart Home Model 164,Smart Home,Acer,2662.66,1673.0
+P00165,Xiaomi Laptops Model 165,Laptops,Samsung,181102.69,122915.0
+P00166,Apple Accessories Model 166,Accessories,Apple,11796.15,8294.17
+P00167,Logitech Smart Home Model 167,Smart Home,LG,53224.76,38696.4
+P00168,Xiaomi Smart Home Model 168,Smart Home,LG,38998.3,30742.98
+P00169,Xiaomi Smart Home Model 169,Smart Home,Samsung,2521.67,1786.2
+P00170,Asus Smart Home Model 170,Smart Home,Samsung,34909.66,20717.15
+P00171,Sony Smartphones Model 171,Smartphones,Apple,94911.59,65222.63
+P00172,Sony Gaming Model 172,Gaming,Lenovo,43791.55,32681.43
+P00173,Sony Accessories Model 173,Accessories,Lenovo,4450.5,2699.36
+P00174,Asus TV Model 174,TV,Xiaomi,135772.51,102829.35
+P00175,Sony Accessories Model 175,Accessories,Acer,1703.97,986.37
+P00176,Logitech Laptops Model 176,Laptops,Lenovo,71150.38,45548.0
+P00177,Xiaomi Gaming Model 177,Gaming,Apple,53133.36,34518.1
+P00178,LG Smart Home Model 178,Smart Home,LG,8910.6,5809.73
+P00179,LG TV Model 179,TV,Logitech,83576.95,51108.45
+P00180,Logitech Smartphones Model 180,Smartphones,Sony,56681.65,35972.48
+P00181,Samsung Gaming Model 181,Gaming,Asus,66616.89,47446.91
+P00182,Lenovo TV Model 182,TV,Xiaomi,96040.78,57981.76
+P00183,LG Smartphones Model 183,Smartphones,LG,58295.05,46079.81
+P00184,Apple Laptops Model 184,Laptops,Sony,209198.13,147670.32
+P00185,Asus TV Model 185,TV,Lenovo,33378.16,23242.01
+P00186,Sony Gaming Model 186,Gaming,Logitech,117457.56,88303.42
+P00187,Logitech Smart Home Model 187,Smart Home,Sony,15827.91,10871.97
+P00188,Xiaomi Smart Home Model 188,Smart Home,Apple,54416.34,31268.04
+P00189,Samsung Accessories Model 189,Accessories,Acer,6422.46,4572.84
+P00190,Logitech Laptops Model 190,Laptops,Huawei,236927.24,132124.59
+P00191,Logitech Gaming Model 191,Gaming,Samsung,29692.15,23121.43
+P00192,Apple Accessories Model 192,Accessories,Lenovo,4015.95,2734.11
+P00193,Lenovo TV Model 193,TV,Apple,102560.85,75254.38
+P00194,Apple Gaming Model 194,Gaming,Xiaomi,112970.01,90133.14
+P00195,Apple Smartphones Model 195,Smartphones,Xiaomi,90239.88,63206.32
+P00196,Lenovo Smartphones Model 196,Smartphones,Lenovo,73542.2,44153.6
+P00197,Logitech Headphones Model 197,Headphones,Logitech,12525.25,7581.77
+P00198,Acer TV Model 198,TV,Sony,73986.66,58124.87
+P00199,Sony TV Model 199,TV,Xiaomi,111569.26,81123.34
+P00200,Sony Accessories Model 200,Accessories,LG,1687.44,1058.99
+P00201,Asus TV Model 201,TV,LG,111882.67,64044.57
+P00202,Acer Headphones Model 202,Headphones,Acer,2174.81,1357.29
+P00203,Sony Smart Home Model 203,Smart Home,Sony,33310.92,21013.55
+P00204,LG Smart Home Model 204,Smart Home,Apple,25236.95,19746.92
+P00205,Logitech Laptops Model 205,Laptops,LG,181511.61,106191.39
+P00206,Huawei Headphones Model 206,Headphones,Xiaomi,23552.58,14231.63
+P00207,Apple Headphones Model 207,Headphones,LG,17314.34,13293.87
+P00208,Lenovo Headphones Model 208,Headphones,Sony,7401.56,5317.87
+P00209,Samsung Smartphones Model 209,Smartphones,Sony,109659.13,84183.11
+P00210,Sony Accessories Model 210,Accessories,Sony,9097.13,6733.5
+P00211,Lenovo TV Model 211,TV,Lenovo,65135.87,46127.37
+P00212,LG Laptops Model 212,Laptops,Apple,120650.83,91550.98
+P00213,Acer Smartphones Model 213,Smartphones,Huawei,101578.05,57052.14
+P00214,Apple TV Model 214,TV,Sony,25043.55,16487.48
+P00215,LG Accessories Model 215,Accessories,Samsung,7169.69,5143.9
+P00216,LG Smart Home Model 216,Smart Home,Xiaomi,10880.58,7060.82
+P00217,Samsung TV Model 217,TV,Acer,146644.97,107112.62
+P00218,Sony Gaming Model 218,Gaming,LG,10912.22,7884.16
+P00219,Apple TV Model 219,TV,Xiaomi,147311.75,98668.24
+P00220,Sony Gaming Model 220,Gaming,Acer,93551.31,59860.48
+P00221,LG Laptops Model 221,Laptops,Huawei,32635.31,20807.64
+P00222,Asus TV Model 222,TV,Xiaomi,167838.31,103386.66
+P00223,Xiaomi Smart Home Model 223,Smart Home,Apple,39881.91,29003.35
+P00224,Sony Smart Home Model 224,Smart Home,Huawei,16927.39,12382.75
+P00225,Logitech Gaming Model 225,Gaming,Asus,108410.55,66690.84
+P00226,Apple TV Model 226,TV,Acer,96858.9,56163.41
+P00227,Logitech Smartphones Model 227,Smartphones,Asus,69453.19,55139.46
+P00228,Acer TV Model 228,TV,Logitech,91978.35,62821.38
+P00229,Sony Gaming Model 229,Gaming,Huawei,113301.61,63495.09
+P00230,Lenovo Smartphones Model 230,Smartphones,Sony,142502.44,92393.98
+P00231,Logitech Headphones Model 231,Headphones,Xiaomi,37293.35,23723.63
+P00232,Asus Accessories Model 232,Accessories,Apple,10258.07,5780.29
+P00233,Logitech Headphones Model 233,Headphones,Asus,10237.3,6410.15
+P00234,Huawei Gaming Model 234,Gaming,Sony,89989.64,59910.01
+P00235,Samsung Accessories Model 235,Accessories,Samsung,14717.84,9920.44
+P00236,Logitech Smart Home Model 236,Smart Home,Sony,29818.38,19934.71
+P00237,Sony Smartphones Model 237,Smartphones,Acer,36290.53,22424.38
+P00238,Apple Smartphones Model 238,Smartphones,Acer,139965.92,85109.92
+P00239,Logitech Laptops Model 239,Laptops,Samsung,164422.03,93769.13
+P00240,Lenovo Headphones Model 240,Headphones,Xiaomi,3799.07,2188.46
+P00241,Logitech Headphones Model 241,Headphones,LG,29772.71,18023.66
+P00242,LG Gaming Model 242,Gaming,Acer,27244.45,15535.28
+P00243,Lenovo Accessories Model 243,Accessories,Huawei,2241.01,1371.13
+P00244,Huawei Smartphones Model 244,Smartphones,Logitech,102706.91,67327.5
+P00245,Samsung Laptops Model 245,Laptops,Sony,71807.28,42867.11
+P00246,Samsung Smart Home Model 246,Smart Home,Apple,4439.82,2595.98
+P00247,Apple Laptops Model 247,Laptops,Huawei,160695.54,118740.4
+P00248,Acer Laptops Model 248,Laptops,LG,220987.19,153145.99
+P00249,Sony TV Model 249,TV,Huawei,125869.5,82146.5
+P00250,Sony Headphones Model 250,Headphones,LG,36389.82,21640.65
+P00251,Lenovo Laptops Model 251,Laptops,Sony,216403.54,168365.39
+P00252,Logitech Smartphones Model 252,Smartphones,Logitech,136860.61,90506.34
+P00253,Huawei Gaming Model 253,Gaming,Apple,33973.12,18874.19
+P00254,Logitech Accessories Model 254,Accessories,Logitech,7524.17,4388.32
+P00255,LG Headphones Model 255,Headphones,Lenovo,30311.39,17565.9
+P00256,Xiaomi Smartphones Model 256,Smartphones,Huawei,115372.48,80642.91
+P00257,Logitech Gaming Model 257,Gaming,Samsung,11698.0,8081.53
+P00258,Samsung Smartphones Model 258,Smartphones,Asus,24816.01,14813.97
+P00259,Samsung Smartphones Model 259,Smartphones,LG,97575.73,59123.38
+P00260,Xiaomi Smart Home Model 260,Smart Home,Apple,15403.98,9130.31
+P00261,Xiaomi Accessories Model 261,Accessories,Logitech,7276.03,5727.23
+P00262,Sony Smart Home Model 262,Smart Home,LG,8481.67,6340.38
+P00263,Logitech Headphones Model 263,Headphones,LG,36986.16,24834.57
+P00264,Apple Laptops Model 264,Laptops,Xiaomi,102823.38,72185.49
+P00265,Apple Headphones Model 265,Headphones,Xiaomi,32187.24,21358.38
+P00266,Samsung TV Model 266,TV,Xiaomi,44517.17,29782.56
+P00267,Asus Smartphones Model 267,Smartphones,Acer,79968.92,58187.6
+P00268,LG Gaming Model 268,Gaming,Lenovo,111822.33,80602.53
+P00269,Samsung Laptops Model 269,Laptops,Asus,33147.6,25603.44
+P00270,Sony Laptops Model 270,Laptops,Huawei,61991.55,44782.65
+P00271,Asus Accessories Model 271,Accessories,LG,11311.86,8549.93
+P00272,Apple TV Model 272,TV,Samsung,109240.7,82169.52
+P00273,Xiaomi Gaming Model 273,Gaming,LG,63674.52,50450.42
+P00274,Apple Laptops Model 274,Laptops,Xiaomi,143547.09,93119.11
+P00275,Asus Smart Home Model 275,Smart Home,Samsung,44173.52,32852.51
+P00276,Asus TV Model 276,TV,Lenovo,57312.79,36048.53
+P00277,Acer Laptops Model 277,Laptops,Xiaomi,153353.52,101155.86
+P00278,Huawei Accessories Model 278,Accessories,Lenovo,3145.0,2113.32
+P00279,Samsung Smartphones Model 279,Smartphones,Xiaomi,149569.48,109451.31
+P00280,Acer TV Model 280,TV,Samsung,155677.67,108114.68
+P00281,Lenovo Gaming Model 281,Gaming,Lenovo,6652.57,3693.61
+P00282,Xiaomi Headphones Model 282,Headphones,Samsung,39757.95,23689.61
+P00283,Lenovo Laptops Model 283,Laptops,Logitech,148820.55,84850.46
+P00284,Sony Headphones Model 284,Headphones,Lenovo,5274.33,4019.81
+P00285,Samsung Laptops Model 285,Laptops,Lenovo,172289.68,99548.61
+P00286,Xiaomi Accessories Model 286,Accessories,LG,10831.37,7092.02
+P00287,Logitech Smart Home Model 287,Smart Home,Asus,44178.51,33545.69
+P00288,Sony Accessories Model 288,Accessories,Logitech,3105.75,2123.96
+P00289,Logitech Laptops Model 289,Laptops,Samsung,129543.41,87791.02
+P00290,Xiaomi Accessories Model 290,Accessories,Samsung,528.09,387.98
+P00291,Logitech TV Model 291,TV,Sony,71099.47,50574.94
+P00292,Apple Smartphones Model 292,Smartphones,Xiaomi,115427.01,65429.34
+P00293,Xiaomi Headphones Model 293,Headphones,Samsung,34452.59,27205.08
+P00294,Lenovo Smart Home Model 294,Smart Home,Sony,29252.62,21484.82
+P00295,Acer Laptops Model 295,Laptops,LG,207074.81,160088.35
+P00296,LG Headphones Model 296,Headphones,Apple,14094.84,10227.49
+P00297,Logitech Accessories Model 297,Accessories,Asus,14952.07,11470.79
+P00298,Samsung Headphones Model 298,Headphones,LG,27621.13,16112.83
+P00299,Huawei Accessories Model 299,Accessories,Logitech,11196.54,6211.73
+P00300,Asus Gaming Model 300,Gaming,Apple,117081.66,89146.12
+P00301,LG Gaming Model 301,Gaming,Sony,64599.02,42090.37
+P00302,Logitech Laptops Model 302,Laptops,LG,130961.18,80736.65
+P00303,LG Smartphones Model 303,Smartphones,Apple,59347.35,42994.48
+P00304,Huawei Gaming Model 304,Gaming,Xiaomi,93653.0,70342.06
+P00305,LG Smartphones Model 305,Smartphones,Acer,51120.24,29809.41
+P00306,Apple Smartphones Model 306,Smartphones,Huawei,22800.19,12940.73
+P00307,Apple Smart Home Model 307,Smart Home,Sony,20572.16,15928.12
+P00308,Lenovo Accessories Model 308,Accessories,Asus,7953.56,5436.97
+P00309,Samsung Laptops Model 309,Laptops,Asus,158894.09,111005.96
+P00310,Samsung TV Model 310,TV,Asus,133336.71,103467.81
+P00311,Samsung Accessories Model 311,Accessories,Lenovo,6868.12,3914.38
+P00312,Samsung TV Model 312,TV,Xiaomi,81184.4,52641.39
+P00313,Asus Laptops Model 313,Laptops,Huawei,210499.87,118573.09
+P00314,Lenovo TV Model 314,TV,Logitech,144175.09,81717.56
+P00315,Lenovo Gaming Model 315,Gaming,Apple,88659.22,59652.49
+P00316,LG Smartphones Model 316,Smartphones,Huawei,135172.05,85255.67
+P00317,Lenovo Headphones Model 317,Headphones,Apple,21319.83,14848.75
+P00318,Huawei Headphones Model 318,Headphones,Xiaomi,36212.92,24200.85
+P00319,Huawei Smart Home Model 319,Smart Home,Logitech,32423.32,23058.67
+P00320,Logitech Smartphones Model 320,Smartphones,Samsung,137521.76,109785.85
+P00321,Acer Smart Home Model 321,Smart Home,Lenovo,2120.73,1679.66
+P00322,Xiaomi Accessories Model 322,Accessories,Asus,1526.73,965.63
+P00323,Lenovo TV Model 323,TV,Apple,179384.46,98867.77
+P00324,Huawei Accessories Model 324,Accessories,Xiaomi,14740.09,9719.09
+P00325,Apple Headphones Model 325,Headphones,Apple,18490.29,12819.91
+P00326,Lenovo TV Model 326,TV,Logitech,84100.57,47693.04
+P00327,Logitech TV Model 327,TV,Asus,46371.5,27929.38
+P00328,Asus Smartphones Model 328,Smartphones,Logitech,46202.8,30065.43
+P00329,Lenovo Accessories Model 329,Accessories,Lenovo,5870.04,3769.93
+P00330,Lenovo Accessories Model 330,Accessories,Xiaomi,8722.02,5507.7
+P00331,LG Headphones Model 331,Headphones,Sony,13245.1,8166.64
+P00332,Xiaomi TV Model 332,TV,Apple,92501.42,72558.97
+P00333,Samsung Accessories Model 333,Accessories,Acer,4564.2,3520.33
+P00334,LG Accessories Model 334,Accessories,Huawei,12976.6,10127.4
+P00335,Samsung Laptops Model 335,Laptops,Asus,49266.02,33196.7
+P00336,Logitech Smartphones Model 336,Smartphones,Xiaomi,84222.94,57934.16
+P00337,Huawei Accessories Model 337,Accessories,Samsung,4081.28,3062.2
+P00338,Huawei Gaming Model 338,Gaming,Logitech,61245.68,37036.26
+P00339,Huawei Smartphones Model 339,Smartphones,Samsung,54668.79,33842.49
+P00340,Xiaomi Smartphones Model 340,Smartphones,Huawei,81887.12,64543.93
+P00341,LG Gaming Model 341,Gaming,Xiaomi,7366.84,4445.89
+P00342,Asus Smart Home Model 342,Smart Home,LG,38651.61,22325.44
+P00343,Xiaomi Accessories Model 343,Accessories,Samsung,5222.09,3126.13
+P00344,Lenovo Smart Home Model 344,Smart Home,Asus,49825.4,36861.7
+P00345,Acer TV Model 345,TV,Apple,75917.28,54656.48
+P00346,Sony Accessories Model 346,Accessories,Asus,7077.8,5011.85
+P00347,Lenovo Smartphones Model 347,Smartphones,Asus,144270.41,100876.95
+P00348,Acer Laptops Model 348,Laptops,Samsung,245621.8,168392.17
+P00349,LG Smart Home Model 349,Smart Home,Asus,28270.11,15703.53
+P00350,Xiaomi Gaming Model 350,Gaming,Apple,82062.28,60721.7
+P00351,Lenovo Smart Home Model 351,Smart Home,LG,18600.94,14388.28
+P00352,Acer Headphones Model 352,Headphones,Sony,24345.81,16518.88
+P00353,Samsung Smartphones Model 353,Smartphones,Huawei,65947.8,49330.34
+P00354,Samsung Smart Home Model 354,Smart Home,Lenovo,3707.67,2737.54
+P00355,Xiaomi Headphones Model 355,Headphones,Logitech,17883.26,14105.71
+P00356,Huawei Laptops Model 356,Laptops,Lenovo,182830.13,145713.44
+P00357,LG TV Model 357,TV,Asus,65878.35,44086.8
+P00358,Sony Accessories Model 358,Accessories,Logitech,14679.55,11719.08
+P00359,Sony Gaming Model 359,Gaming,Logitech,92506.49,67590.92
+P00360,Huawei Laptops Model 360,Laptops,Sony,191437.92,129119.93
+P00361,Xiaomi Gaming Model 361,Gaming,Logitech,101256.29,57248.0
+P00362,Acer Accessories Model 362,Accessories,Huawei,7920.2,5465.35
+P00363,Apple Laptops Model 363,Laptops,Sony,96225.74,75561.24
+P00364,Sony Smartphones Model 364,Smartphones,Xiaomi,144986.85,95746.28
+P00365,Sony Smart Home Model 365,Smart Home,Lenovo,44521.05,31357.04
+P00366,Asus Accessories Model 366,Accessories,Xiaomi,8480.94,6136.86
+P00367,Lenovo Smart Home Model 367,Smart Home,Sony,10717.11,6419.15
+P00368,Xiaomi TV Model 368,TV,Sony,123112.38,73274.65
+P00369,Sony Headphones Model 369,Headphones,Acer,2155.25,1376.22
+P00370,Asus TV Model 370,TV,Asus,78058.21,50895.28
+P00371,Logitech TV Model 371,TV,Asus,80678.58,60163.97
+P00372,Sony Headphones Model 372,Headphones,Huawei,6849.25,5078.51
+P00373,Apple Smartphones Model 373,Smartphones,Asus,125903.65,85258.01
+P00374,Xiaomi Headphones Model 374,Headphones,Sony,10506.01,6159.13
+P00375,Huawei Accessories Model 375,Accessories,Logitech,13999.61,9753.42
+P00376,Sony Headphones Model 376,Headphones,LG,14333.29,8668.18
+P00377,Apple Gaming Model 377,Gaming,LG,62896.83,43592.03
+P00378,Logitech Headphones Model 378,Headphones,Asus,4277.36,2604.94
+P00379,Lenovo Laptops Model 379,Laptops,Asus,206360.09,133644.79
+P00380,Acer Laptops Model 380,Laptops,Xiaomi,219058.65,141679.22
+P00381,LG Headphones Model 381,Headphones,Sony,30190.28,17071.53
+P00382,Logitech Gaming Model 382,Gaming,Xiaomi,69022.76,45171.39
+P00383,Samsung Headphones Model 383,Headphones,Apple,23024.88,17409.21
+P00384,Acer Laptops Model 384,Laptops,Samsung,188805.4,114892.71
+P00385,Lenovo Headphones Model 385,Headphones,Sony,29259.09,21854.16
+P00386,Acer Headphones Model 386,Headphones,LG,8046.6,5048.7
+P00387,Sony Gaming Model 387,Gaming,Xiaomi,27124.07,20491.36
+P00388,LG Laptops Model 388,Laptops,Acer,245630.86,196382.84
+P00389,Acer TV Model 389,TV,Logitech,88167.06,60264.83
+P00390,Lenovo Smartphones Model 390,Smartphones,Asus,35072.26,22650.79
+P00391,Acer TV Model 391,TV,Asus,137628.3,87375.44
+P00392,Samsung Headphones Model 392,Headphones,Apple,30957.34,19361.04
+P00393,Sony TV Model 393,TV,LG,148882.66,95972.43
+P00394,Lenovo Smart Home Model 394,Smart Home,Logitech,46474.61,25958.35
+P00395,Logitech Headphones Model 395,Headphones,Lenovo,27433.03,20300.6
+P00396,Xiaomi Gaming Model 396,Gaming,Acer,35368.51,21445.13
+P00397,Xiaomi Headphones Model 397,Headphones,Xiaomi,36205.24,20635.53
+P00398,Sony TV Model 398,TV,Samsung,51175.35,37549.41
+P00399,Apple TV Model 399,TV,Acer,153064.56,96802.71
+P00400,Apple Smart Home Model 400,Smart Home,Apple,29189.17,23342.53
+P00401,Asus Smart Home Model 401,Smart Home,Lenovo,41041.03,23346.34
+P00402,Xiaomi Smartphones Model 402,Smartphones,Samsung,43825.0,24288.55
+P00403,Asus Smartphones Model 403,Smartphones,Samsung,39038.83,29192.7
+P00404,LG TV Model 404,TV,Xiaomi,87610.03,50177.98
+P00405,LG Gaming Model 405,Gaming,Asus,55916.74,40883.18
+P00406,Samsung Accessories Model 406,Accessories,Asus,3362.72,2355.92
+P00407,Sony TV Model 407,TV,Apple,81527.28,62553.35
+P00408,Logitech TV Model 408,TV,Asus,80025.39,58525.25
+P00409,Acer Smartphones Model 409,Smartphones,Samsung,128581.8,77370.51
+P00410,Lenovo TV Model 410,TV,Asus,162870.15,120277.82
+P00411,Sony Smart Home Model 411,Smart Home,LG,56028.14,32467.37
+P00412,LG Smart Home Model 412,Smart Home,Samsung,20796.72,16527.23
+P00413,Logitech Accessories Model 413,Accessories,LG,14584.28,11223.55
+P00414,Samsung Accessories Model 414,Accessories,Lenovo,3284.51,1832.89
+P00415,Lenovo Smartphones Model 415,Smartphones,Samsung,82349.7,55701.56
+P00416,Apple Gaming Model 416,Gaming,Apple,50512.14,39022.4
+P00417,Samsung Gaming Model 417,Gaming,Apple,85359.35,62203.11
+P00418,Asus Gaming Model 418,Gaming,Sony,98981.04,56583.93
+P00419,Apple Smartphones Model 419,Smartphones,Sony,130438.22,74285.5
+P00420,Lenovo Accessories Model 420,Accessories,Lenovo,8812.81,5749.39
+P00421,Xiaomi TV Model 421,TV,Lenovo,147646.45,117156.65
+P00422,Xiaomi TV Model 422,TV,LG,163679.24,115946.82
+P00423,Samsung Accessories Model 423,Accessories,Logitech,11862.09,8592.59
+P00424,Samsung Smart Home Model 424,Smart Home,Lenovo,29560.97,18535.66
+P00425,Lenovo TV Model 425,TV,Samsung,88443.98,62483.01
+P00426,Logitech Smartphones Model 426,Smartphones,Sony,102696.65,67721.35
+P00427,Acer Headphones Model 427,Headphones,Sony,9987.65,7678.77
+P00428,LG Gaming Model 428,Gaming,Apple,55662.2,37798.44
+P00429,Logitech Laptops Model 429,Laptops,Acer,147414.08,91727.56
+P00430,LG Headphones Model 430,Headphones,Xiaomi,4484.08,2963.43
+P00431,LG Laptops Model 431,Laptops,Acer,215770.45,122601.6
+P00432,Apple Accessories Model 432,Accessories,Huawei,9998.36,5984.63
+P00433,Sony Smartphones Model 433,Smartphones,Asus,97135.2,75254.03
+P00434,Sony TV Model 434,TV,Xiaomi,95887.44,54169.77
+P00435,Asus Smartphones Model 435,Smartphones,Sony,72843.87,46945.43
+P00436,Apple Laptops Model 436,Laptops,LG,197291.68,140822.08
+P00437,LG Laptops Model 437,Laptops,Sony,124829.55,87807.0
+P00438,Huawei Smartphones Model 438,Smartphones,Apple,73234.72,53261.37
+P00439,Huawei Smart Home Model 439,Smart Home,Acer,41892.01,26382.18
+P00440,Huawei Laptops Model 440,Laptops,Lenovo,199900.86,122693.47
+P00441,Sony Smartphones Model 441,Smartphones,Lenovo,67987.77,52250.32
+P00442,Sony Headphones Model 442,Headphones,LG,22306.74,17588.67
+P00443,Xiaomi TV Model 443,TV,Samsung,83395.64,48636.88
+P00444,Logitech Smart Home Model 444,Smart Home,LG,10416.31,6825.51
+P00445,Xiaomi Headphones Model 445,Headphones,Huawei,8174.47,6450.63
+P00446,Apple Accessories Model 446,Accessories,Sony,14387.91,9448.53
+P00447,Lenovo Accessories Model 447,Accessories,Samsung,14957.36,9282.18
+P00448,Apple Smartphones Model 448,Smartphones,Lenovo,41319.53,28016.95
+P00449,Huawei Gaming Model 449,Gaming,Sony,99052.69,67200.48
+P00450,Samsung Laptops Model 450,Laptops,Xiaomi,238484.6,163532.19
+P00451,Huawei Smart Home Model 451,Smart Home,Lenovo,5584.57,4103.09
+P00452,Logitech Smart Home Model 452,Smart Home,LG,52670.64,34368.7
+P00453,Sony Laptops Model 453,Laptops,Logitech,187844.98,127575.18
+P00454,Acer Laptops Model 454,Laptops,Xiaomi,117989.29,88042.9
+P00455,Acer Headphones Model 455,Headphones,LG,4990.87,2963.79
+P00456,Acer TV Model 456,TV,Xiaomi,119900.15,67918.28
+P00457,Samsung TV Model 457,TV,LG,160609.3,112061.8
+P00458,Asus Gaming Model 458,Gaming,Lenovo,57289.83,37649.1
+P00459,Huawei Gaming Model 459,Gaming,Samsung,28001.22,18621.32
+P00460,Acer Smartphones Model 460,Smartphones,Asus,98285.5,68883.65
+P00461,Asus Accessories Model 461,Accessories,Samsung,9165.54,5833.21
+P00462,Lenovo Accessories Model 462,Accessories,Xiaomi,8607.06,5334.65
+P00463,Asus Accessories Model 463,Accessories,Huawei,3652.97,2829.68
+P00464,LG Headphones Model 464,Headphones,Lenovo,13328.39,8074.18
+P00465,Acer TV Model 465,TV,Xiaomi,82639.64,62419.09
+P00466,Sony Accessories Model 466,Accessories,LG,11834.33,8112.06
+P00467,Lenovo Headphones Model 467,Headphones,Sony,4748.05,3184.59
+P00468,Asus Laptops Model 468,Laptops,Xiaomi,234417.59,145030.01
+P00469,Logitech Headphones Model 469,Headphones,Huawei,6344.54,3923.42
+P00470,Acer Smart Home Model 470,Smart Home,Lenovo,44345.48,32361.75
+P00471,Sony Accessories Model 471,Accessories,Acer,7056.33,4278.37
+P00472,LG Laptops Model 472,Laptops,Asus,225468.58,142496.05
+P00473,Sony TV Model 473,TV,Logitech,58858.34,34818.53
+P00474,Apple Smartphones Model 474,Smartphones,Apple,59840.91,41562.57
+P00475,Sony TV Model 475,TV,Sony,76639.02,52973.19
+P00476,LG Smartphones Model 476,Smartphones,Samsung,134201.72,105787.27
+P00477,Acer Smartphones Model 477,Smartphones,Acer,119863.74,71598.72
+P00478,Huawei Smartphones Model 478,Smartphones,Apple,124154.98,98071.96
+P00479,Acer Smart Home Model 479,Smart Home,Asus,32092.3,20438.54
+P00480,Samsung Smartphones Model 480,Smartphones,Huawei,39070.4,22248.3
+P00481,Lenovo TV Model 481,TV,Acer,150227.98,114894.83
+P00482,Asus Laptops Model 482,Laptops,Sony,124455.4,71293.09
+P00483,Logitech Laptops Model 483,Laptops,Lenovo,65184.47,46416.96
+P00484,Apple Headphones Model 484,Headphones,LG,38204.37,28582.0
+P00485,Lenovo TV Model 485,TV,Xiaomi,148911.66,117590.23
+P00486,Xiaomi Headphones Model 486,Headphones,Acer,4799.12,3293.22
+P00487,Acer Laptops Model 487,Laptops,Asus,189512.65,116055.29
+P00488,Lenovo Smart Home Model 488,Smart Home,Logitech,5976.76,4661.92
+P00489,Xiaomi Laptops Model 489,Laptops,Asus,234812.33,174641.12
+P00490,Acer Headphones Model 490,Headphones,Lenovo,35058.14,24183.13
+P00491,Acer TV Model 491,TV,Huawei,24398.93,14638.43
+P00492,Lenovo TV Model 492,TV,Logitech,150668.37,110507.67
+P00493,Acer Accessories Model 493,Accessories,Asus,14191.8,8109.91
+P00494,Asus Gaming Model 494,Gaming,LG,88456.4,54432.43
+P00495,LG Accessories Model 495,Accessories,Samsung,8156.4,6039.28
+P00496,Huawei Smartphones Model 496,Smartphones,Logitech,140287.28,83291.19
+P00497,Logitech TV Model 497,TV,Sony,63084.24,37827.03
+P00498,Samsung Gaming Model 498,Gaming,Apple,14734.74,11604.44
+P00499,Samsung Headphones Model 499,Headphones,Apple,14542.69,9561.28
+P00500,LG Accessories Model 500,Accessories,Apple,11979.37,8213.25
+P00501,Lenovo TV Model 501,TV,LG,96854.65,56858.99
+P00502,Acer Headphones Model 502,Headphones,LG,32612.51,21903.38
+P00503,Acer TV Model 503,TV,Asus,29944.31,19481.1
+P00504,Xiaomi Laptops Model 504,Laptops,Logitech,41675.48,30866.44
+P00505,LG Laptops Model 505,Laptops,Sony,166205.23,112420.98
+P00506,Sony Gaming Model 506,Gaming,Sony,68386.66,45773.95
+P00507,Logitech Smart Home Model 507,Smart Home,Apple,7499.31,5173.47
+P00508,Lenovo Gaming Model 508,Gaming,Acer,72210.16,44630.07
+P00509,LG Laptops Model 509,Laptops,Huawei,163845.27,125750.7
+P00510,Logitech Gaming Model 510,Gaming,Xiaomi,45226.5,32180.77
+P00511,Apple Accessories Model 511,Accessories,Acer,14063.99,9609.7
+P00512,Acer Headphones Model 512,Headphones,Asus,24609.83,14159.89
+P00513,Huawei Laptops Model 513,Laptops,Logitech,242658.75,141122.34
+P00514,Huawei Laptops Model 514,Laptops,Xiaomi,99355.27,59510.66
+P00515,LG Accessories Model 515,Accessories,Logitech,14116.34,7891.18
+P00516,Lenovo TV Model 516,TV,Sony,121320.6,86034.32
+P00517,Huawei Gaming Model 517,Gaming,Huawei,17496.58,9843.92
+P00518,Sony Gaming Model 518,Gaming,Lenovo,57407.73,45188.64
+P00519,LG TV Model 519,TV,Logitech,88199.54,53619.26
+P00520,Logitech TV Model 520,TV,Logitech,106600.31,81776.8
+P00521,Asus Accessories Model 521,Accessories,Logitech,7000.18,4414.39
+P00522,Lenovo Smartphones Model 522,Smartphones,Lenovo,101429.59,56806.68
+P00523,Lenovo Gaming Model 523,Gaming,Sony,84855.46,52366.98
+P00524,Sony Smartphones Model 524,Smartphones,LG,21053.46,15336.64
+P00525,Huawei Laptops Model 525,Laptops,Asus,157258.39,95535.61
+P00526,Xiaomi Headphones Model 526,Headphones,Asus,5991.07,3939.65
+P00527,Acer Laptops Model 527,Laptops,Huawei,146739.83,108365.04
+P00528,Lenovo Laptops Model 528,Laptops,Asus,62475.03,39685.38
+P00529,Lenovo Smartphones Model 529,Smartphones,Xiaomi,110259.4,78927.15
+P00530,Lenovo Gaming Model 530,Gaming,Asus,55423.95,38624.69
+P00531,LG Headphones Model 531,Headphones,Asus,36263.21,27249.08
+P00532,Xiaomi Headphones Model 532,Headphones,Acer,24270.53,18040.04
+P00533,Xiaomi Smartphones Model 533,Smartphones,Acer,117385.38,73344.52
+P00534,Apple Accessories Model 534,Accessories,Samsung,11648.5,6637.51
+P00535,Asus Smartphones Model 535,Smartphones,Logitech,91143.21,71618.24
+P00536,Asus Smartphones Model 536,Smartphones,LG,113670.7,84879.91
+P00537,Apple Accessories Model 537,Accessories,Samsung,7090.12,4227.69
+P00538,Asus Smartphones Model 538,Smartphones,LG,98037.6,64889.78
+P00539,Lenovo Headphones Model 539,Headphones,Asus,33865.51,26918.55
+P00540,Lenovo Smartphones Model 540,Smartphones,LG,33274.62,25205.47
+P00541,Logitech TV Model 541,TV,Sony,164566.97,127991.71
+P00542,Lenovo Laptops Model 542,Laptops,LG,126688.21,74337.03
+P00543,Acer Laptops Model 543,Laptops,Acer,128975.67,97674.99
+P00544,Huawei Headphones Model 544,Headphones,Huawei,29936.12,20590.14
+P00545,Logitech Headphones Model 545,Headphones,Lenovo,17013.83,9398.98
+P00546,Logitech Gaming Model 546,Gaming,Logitech,108558.72,78605.93
+P00547,LG Smartphones Model 547,Smartphones,Acer,108814.38,81868.22
+P00548,Sony TV Model 548,TV,Acer,122894.97,88706.77
+P00549,LG TV Model 549,TV,Logitech,137618.75,88718.57
+P00550,Lenovo Accessories Model 550,Accessories,Acer,10994.37,8284.52
+P00551,Xiaomi Smart Home Model 551,Smart Home,Samsung,55096.18,33482.69
+P00552,Samsung TV Model 552,TV,LG,171284.82,94761.69
+P00553,Lenovo Laptops Model 553,Laptops,Logitech,140459.87,97716.09
+P00554,Logitech Smart Home Model 554,Smart Home,Acer,2411.02,1346.63
+P00555,Xiaomi TV Model 555,TV,Acer,142819.06,86504.29
+P00556,Acer Smart Home Model 556,Smart Home,Asus,6128.7,4431.4
+P00557,Logitech Smart Home Model 557,Smart Home,LG,41972.54,33258.9
+P00558,LG TV Model 558,TV,Xiaomi,35453.96,26620.68
+P00559,LG TV Model 559,TV,Samsung,176717.34,112859.94
+P00560,Asus Headphones Model 560,Headphones,Huawei,20380.74,16083.49
+P00561,Acer TV Model 561,TV,Sony,149012.64,95172.55
+P00562,Acer Accessories Model 562,Accessories,Samsung,3909.57,2910.85
+P00563,Huawei Headphones Model 563,Headphones,Xiaomi,3509.71,2059.5
+P00564,Logitech Smart Home Model 564,Smart Home,LG,51589.19,34371.87
+P00565,Samsung Smart Home Model 565,Smart Home,Xiaomi,55281.33,38192.66
+P00566,Acer Laptops Model 566,Laptops,LG,134160.84,98276.62
+P00567,Sony Smartphones Model 567,Smartphones,Asus,54599.32,40886.47
+P00568,Xiaomi Smartphones Model 568,Smartphones,Apple,71000.31,51212.16
+P00569,Xiaomi Smart Home Model 569,Smart Home,Samsung,18992.82,12793.55
+P00570,Lenovo Gaming Model 570,Gaming,Huawei,110244.59,86356.61
+P00571,Apple Laptops Model 571,Laptops,LG,61210.65,45797.65
+P00572,Sony Gaming Model 572,Gaming,Lenovo,91455.1,50404.77
+P00573,Sony Gaming Model 573,Gaming,Xiaomi,118070.13,71527.77
+P00574,Apple Laptops Model 574,Laptops,Asus,117501.03,77580.22
+P00575,Sony Gaming Model 575,Gaming,Apple,74862.07,44727.08
+P00576,Logitech Headphones Model 576,Headphones,Acer,4267.16,2765.64
+P00577,Logitech Headphones Model 577,Headphones,Sony,19871.73,13713.0
+P00578,Asus Smart Home Model 578,Smart Home,LG,34288.05,26014.8
+P00579,Huawei Gaming Model 579,Gaming,Acer,95814.87,57342.24
+P00580,LG Gaming Model 580,Gaming,Samsung,12551.77,7218.42
+P00581,Apple Gaming Model 581,Gaming,Lenovo,107906.26,71583.32
+P00582,Acer Accessories Model 582,Accessories,Apple,3575.87,2229.15
+P00583,Apple TV Model 583,TV,Logitech,120355.77,85445.73
+P00584,Samsung Headphones Model 584,Headphones,Acer,11680.2,8224.82
+P00585,Xiaomi Accessories Model 585,Accessories,Logitech,6567.95,5015.98
+P00586,Lenovo TV Model 586,TV,Xiaomi,50260.69,39421.96
+P00587,Xiaomi Gaming Model 587,Gaming,Xiaomi,41170.02,25721.09
+P00588,Logitech Smartphones Model 588,Smartphones,Acer,55890.82,37698.5
+P00589,Apple Headphones Model 589,Headphones,Samsung,35914.44,21058.31
+P00590,Acer Accessories Model 590,Accessories,LG,13295.54,7931.49
+P00591,Lenovo Laptops Model 591,Laptops,Logitech,60264.14,37829.08
+P00592,Asus Laptops Model 592,Laptops,Lenovo,68726.19,54812.11
+P00593,Asus Laptops Model 593,Laptops,Lenovo,158456.62,125936.15
+P00594,Lenovo Smartphones Model 594,Smartphones,Logitech,36452.23,26438.67
+P00595,LG Accessories Model 595,Accessories,Asus,13026.35,7259.85
+P00596,Logitech Smartphones Model 596,Smartphones,Logitech,32660.89,24842.1
+P00597,Asus Gaming Model 597,Gaming,Logitech,115855.65,83398.38
+P00598,Xiaomi Smart Home Model 598,Smart Home,Acer,21811.82,17446.46
+P00599,Asus Smart Home Model 599,Smart Home,Logitech,13316.14,8369.26
+P00600,Xiaomi TV Model 600,TV,Samsung,106699.37,74888.0
+P00601,Acer Gaming Model 601,Gaming,Apple,112362.63,78569.56
+P00602,Apple Smartphones Model 602,Smartphones,Logitech,105139.2,74858.17
+P00603,Lenovo Laptops Model 603,Laptops,Lenovo,202365.63,161855.9
+P00604,LG Smartphones Model 604,Smartphones,Apple,78104.1,54417.96
+P00605,Asus Headphones Model 605,Headphones,Lenovo,30051.2,22468.22
+P00606,Samsung Smart Home Model 606,Smart Home,Lenovo,13474.41,8235.35
+P00607,Huawei Smartphones Model 607,Smartphones,Sony,132367.32,73637.09
+P00608,Apple Laptops Model 608,Laptops,Logitech,243910.24,171400.05
+P00609,Asus Accessories Model 609,Accessories,Acer,12839.89,10141.07
+P00610,Apple Smart Home Model 610,Smart Home,Acer,4528.2,3055.61
+P00611,Xiaomi Laptops Model 611,Laptops,Sony,55051.4,37342.58
+P00612,Sony TV Model 612,TV,Asus,122042.04,72115.33
+P00613,Huawei Smart Home Model 613,Smart Home,Samsung,28703.88,22917.68
+P00614,Asus Gaming Model 614,Gaming,Lenovo,92725.32,65878.73
+P00615,Huawei Gaming Model 615,Gaming,Acer,43341.29,31424.13
+P00616,Acer Laptops Model 616,Laptops,Asus,88190.97,52927.34
+P00617,Asus Headphones Model 617,Headphones,Sony,13706.89,9402.45
+P00618,Asus Gaming Model 618,Gaming,Sony,51842.17,35437.29
+P00619,LG Smart Home Model 619,Smart Home,LG,22448.6,17849.6
+P00620,Asus Laptops Model 620,Laptops,Xiaomi,143440.79,84297.68
+P00621,Apple TV Model 621,TV,Sony,137161.49,91236.36
+P00622,Acer Accessories Model 622,Accessories,Sony,9152.21,6557.15
+P00623,Samsung Smart Home Model 623,Smart Home,Xiaomi,27517.86,18203.95
+P00624,Sony Gaming Model 624,Gaming,Logitech,23688.09,14517.64
+P00625,Xiaomi TV Model 625,TV,Asus,95254.34,69264.92
+P00626,Logitech Accessories Model 626,Accessories,Logitech,2593.89,1838.99
+P00627,Asus Headphones Model 627,Headphones,Asus,29882.59,21982.47
+P00628,Acer Headphones Model 628,Headphones,Acer,15355.55,11034.63
+P00629,LG TV Model 629,TV,Acer,28951.67,20204.5
+P00630,Lenovo Smartphones Model 630,Smartphones,Huawei,45666.54,26023.76
+P00631,Apple Smart Home Model 631,Smart Home,Samsung,7961.56,5459.87
+P00632,Sony Smartphones Model 632,Smartphones,Sony,19746.67,13057.96
+P00633,Samsung Gaming Model 633,Gaming,LG,45526.38,34382.68
+P00634,LG Gaming Model 634,Gaming,Samsung,30617.48,22074.2
+P00635,Samsung Smart Home Model 635,Smart Home,Acer,15301.47,8649.09
+P00636,LG Smartphones Model 636,Smartphones,Sony,83005.1,51245.37
+P00637,Logitech Accessories Model 637,Accessories,Huawei,896.13,493.6
+P00638,Xiaomi Accessories Model 638,Accessories,Logitech,5314.12,3246.58
+P00639,Apple Smart Home Model 639,Smart Home,Acer,41111.65,26621.85
+P00640,Xiaomi TV Model 640,TV,Lenovo,103137.14,71616.4
+P00641,Logitech Smart Home Model 641,Smart Home,Logitech,58206.54,32764.43
+P00642,LG Accessories Model 642,Accessories,Sony,12877.26,9345.72
+P00643,Logitech Accessories Model 643,Accessories,Lenovo,1799.8,1125.06
+P00644,Sony Headphones Model 644,Headphones,Lenovo,39289.01,22642.97
+P00645,Logitech Headphones Model 645,Headphones,Acer,15454.89,9073.48
+P00646,Acer TV Model 646,TV,Samsung,143367.09,82673.1
+P00647,LG TV Model 647,TV,Xiaomi,174946.38,122118.94
+P00648,Xiaomi Laptops Model 648,Laptops,LG,93798.99,53822.09
+P00649,Logitech Headphones Model 649,Headphones,Lenovo,23620.6,16291.61
+P00650,Apple Laptops Model 650,Laptops,Huawei,34352.08,20592.59
+P00651,Acer Laptops Model 651,Laptops,Acer,143668.47,104691.6
+P00652,Apple Accessories Model 652,Accessories,Samsung,13224.93,7481.78
+P00653,Sony Gaming Model 653,Gaming,Logitech,13267.11,9597.38
+P00654,Asus Gaming Model 654,Gaming,Asus,106119.62,78006.64
+P00655,Logitech TV Model 655,TV,Logitech,68874.79,42726.71
+P00656,LG Smart Home Model 656,Smart Home,Asus,3323.6,2284.88
+P00657,Apple Smartphones Model 657,Smartphones,Sony,90426.25,55162.18
+P00658,Logitech Smartphones Model 658,Smartphones,LG,129012.8,86090.81
+P00659,Asus Accessories Model 659,Accessories,Apple,13132.35,7781.08
+P00660,Acer Smartphones Model 660,Smartphones,Logitech,102559.7,76868.93
+P00661,Huawei Headphones Model 661,Headphones,Huawei,36627.18,22050.83
+P00662,Huawei Gaming Model 662,Gaming,Logitech,48317.64,26628.98
+P00663,Acer Laptops Model 663,Laptops,Huawei,163413.83,119352.78
+P00664,Logitech Smartphones Model 664,Smartphones,Asus,140344.28,97625.42
+P00665,Logitech Headphones Model 665,Headphones,Samsung,16292.65,10199.46
+P00666,Asus TV Model 666,TV,Huawei,153879.41,87107.35
+P00667,Huawei Smart Home Model 667,Smart Home,LG,6285.24,3888.47
+P00668,Lenovo TV Model 668,TV,Apple,111920.69,69588.27
+P00669,Sony Smartphones Model 669,Smartphones,Acer,126577.59,92645.97
+P00670,Xiaomi TV Model 670,TV,Samsung,75329.8,50908.97
+P00671,Sony Accessories Model 671,Accessories,Sony,3247.45,1825.41
+P00672,Samsung Headphones Model 672,Headphones,Xiaomi,38169.86,21874.87
+P00673,Sony TV Model 673,TV,Samsung,146190.86,113483.91
+P00674,Logitech Laptops Model 674,Laptops,Asus,87500.09,49832.48
+P00675,Samsung Laptops Model 675,Laptops,Acer,177604.77,100665.18
+P00676,Xiaomi Headphones Model 676,Headphones,Sony,36523.16,25505.39
+P00677,Sony Laptops Model 677,Laptops,LG,208418.08,118582.27
+P00678,Huawei Smartphones Model 678,Smartphones,Sony,54244.47,35511.6
+P00679,Xiaomi Accessories Model 679,Accessories,Apple,4679.79,2965.2
+P00680,Asus TV Model 680,TV,Apple,155490.07,95851.56
+P00681,Asus Gaming Model 681,Gaming,Asus,56850.54,41122.59
+P00682,Lenovo Smartphones Model 682,Smartphones,Logitech,96736.12,65947.9
+P00683,LG Smart Home Model 683,Smart Home,LG,11054.09,6231.08
+P00684,Xiaomi TV Model 684,TV,Acer,121976.67,83421.83
+P00685,Xiaomi Headphones Model 685,Headphones,Apple,34151.3,19296.77
+P00686,Asus TV Model 686,TV,LG,69798.09,47334.65
+P00687,Logitech Gaming Model 687,Gaming,Sony,101757.5,61048.18
+P00688,Acer Smartphones Model 688,Smartphones,Logitech,67462.76,52392.36
+P00689,Sony Laptops Model 689,Laptops,Xiaomi,82383.24,49289.56
+P00690,Asus TV Model 690,TV,Xiaomi,55767.0,35134.51
+P00691,Lenovo TV Model 691,TV,Asus,172094.36,104085.55
+P00692,Logitech TV Model 692,TV,Samsung,140737.02,97228.25
+P00693,Xiaomi Headphones Model 693,Headphones,Samsung,20471.62,14431.79
+P00694,Xiaomi Laptops Model 694,Laptops,Huawei,225810.54,144271.3
+P00695,LG Accessories Model 695,Accessories,Acer,11121.48,7498.22
+P00696,Asus Smart Home Model 696,Smart Home,Asus,37811.14,28882.35
+P00697,Xiaomi TV Model 697,TV,LG,116285.95,64880.58
+P00698,Asus Smartphones Model 698,Smartphones,Xiaomi,135886.53,106547.88
+P00699,Samsung Headphones Model 699,Headphones,Sony,25974.69,17369.94
+P00700,Acer Smartphones Model 700,Smartphones,Huawei,22114.78,16326.58
+P00701,LG Headphones Model 701,Headphones,Apple,8604.39,5498.23
+P00702,Xiaomi Gaming Model 702,Gaming,Lenovo,100546.04,78798.75
+P00703,Apple Smart Home Model 703,Smart Home,Huawei,6709.06,5135.91
+P00704,Samsung TV Model 704,TV,Lenovo,96654.71,76026.1
+P00705,Sony Headphones Model 705,Headphones,Logitech,19649.98,15480.57
+P00706,Huawei Smart Home Model 706,Smart Home,LG,24150.05,17592.8
+P00707,Acer Accessories Model 707,Accessories,Xiaomi,12968.18,7143.25
+P00708,Acer Headphones Model 708,Headphones,Logitech,38098.71,22418.17
+P00709,Asus Gaming Model 709,Gaming,Acer,65784.22,50062.56
+P00710,Acer TV Model 710,TV,LG,136139.42,77641.29
+P00711,Sony Smart Home Model 711,Smart Home,Samsung,26017.56,18734.22
+P00712,Lenovo Smartphones Model 712,Smartphones,Samsung,138366.11,108145.91
+P00713,Acer Laptops Model 713,Laptops,Sony,240459.7,133771.01
+P00714,Asus TV Model 714,TV,Logitech,121321.99,94863.97
+P00715,Xiaomi Accessories Model 715,Accessories,Huawei,13297.02,10603.34
+P00716,Huawei Laptops Model 716,Laptops,Huawei,205304.59,122733.85
+P00717,Lenovo Smart Home Model 717,Smart Home,Lenovo,24416.77,16640.58
+P00718,Acer Headphones Model 718,Headphones,Samsung,6675.91,4516.08
+P00719,Logitech Smart Home Model 719,Smart Home,Huawei,30480.74,24000.81
+P00720,Acer TV Model 720,TV,Samsung,53297.34,36572.48
+P00721,Samsung Accessories Model 721,Accessories,Samsung,8902.86,5384.89
+P00722,Huawei Headphones Model 722,Headphones,Huawei,15279.99,12115.82
+P00723,Logitech Headphones Model 723,Headphones,Asus,26257.44,16941.54
+P00724,Apple Smart Home Model 724,Smart Home,Acer,38734.18,22004.63
+P00725,Lenovo Smart Home Model 725,Smart Home,Asus,16414.72,10326.62
+P00726,Logitech Smartphones Model 726,Smartphones,Apple,115194.03,71775.72
+P00727,Asus Accessories Model 727,Accessories,Asus,10520.15,6652.28
+P00728,Xiaomi Gaming Model 728,Gaming,Samsung,57075.2,42406.53
+P00729,Logitech TV Model 729,TV,Asus,100119.14,70965.93
+P00730,Logitech TV Model 730,TV,Lenovo,26297.91,19711.29
+P00731,Apple Gaming Model 731,Gaming,Acer,15935.79,9730.3
+P00732,Sony TV Model 732,TV,Apple,33787.68,21632.87
+P00733,Acer Smart Home Model 733,Smart Home,Xiaomi,18410.39,12995.04
+P00734,LG TV Model 734,TV,Asus,127664.38,95833.72
+P00735,Asus Smartphones Model 735,Smartphones,Huawei,66260.21,39038.75
+P00736,LG Accessories Model 736,Accessories,Samsung,12031.95,6860.49
+P00737,Huawei Gaming Model 737,Gaming,Samsung,40750.06,26904.01
+P00738,Lenovo Laptops Model 738,Laptops,Huawei,133426.35,105522.19
+P00739,Sony Laptops Model 739,Laptops,Lenovo,86604.36,58647.46
+P00740,Lenovo Headphones Model 740,Headphones,Sony,38782.23,28168.42
+P00741,Logitech Smartphones Model 741,Smartphones,Huawei,109508.66,81336.54
+P00742,Samsung Headphones Model 742,Headphones,Asus,3419.9,2083.63
+P00743,Logitech Gaming Model 743,Gaming,LG,50329.54,39585.31
+P00744,LG TV Model 744,TV,Huawei,128792.88,95205.27
+P00745,Samsung Smart Home Model 745,Smart Home,Xiaomi,28730.47,22264.25
+P00746,Xiaomi Smart Home Model 746,Smart Home,Sony,19094.15,11373.93
+P00747,Logitech Gaming Model 747,Gaming,Xiaomi,88293.87,66670.55
+P00748,Acer Laptops Model 748,Laptops,Lenovo,109409.8,80437.69
+P00749,Acer Laptops Model 749,Laptops,Apple,45335.03,27466.28
+P00750,Huawei TV Model 750,TV,Samsung,30343.43,17379.71
+P00751,Lenovo Headphones Model 751,Headphones,LG,5063.6,2862.02
+P00752,Huawei Headphones Model 752,Headphones,Asus,22423.57,15935.16
+P00753,Xiaomi Gaming Model 753,Gaming,Lenovo,56327.46,41971.54
+P00754,Xiaomi Gaming Model 754,Gaming,Samsung,82040.65,50446.96
+P00755,Sony Headphones Model 755,Headphones,Xiaomi,25059.58,18059.51
+P00756,Sony Accessories Model 756,Accessories,Samsung,11175.5,6604.23
+P00757,Acer Accessories Model 757,Accessories,Asus,14095.94,8018.12
+P00758,Sony Smart Home Model 758,Smart Home,Lenovo,5997.55,3449.29
+P00759,Asus Smart Home Model 759,Smart Home,LG,29042.9,20812.84
+P00760,Apple Smartphones Model 760,Smartphones,Apple,114700.64,84159.15
+P00761,LG TV Model 761,TV,Asus,156876.53,109010.54
+P00762,Apple TV Model 762,TV,Acer,114478.62,64556.39
+P00763,Sony TV Model 763,TV,Sony,170082.68,121616.02
+P00764,Apple Headphones Model 764,Headphones,Lenovo,35486.25,20946.47
+P00765,Xiaomi Gaming Model 765,Gaming,Huawei,79941.59,53636.67
+P00766,Logitech Laptops Model 766,Laptops,LG,86286.75,62664.83
+P00767,Huawei Laptops Model 767,Laptops,Logitech,51444.65,35655.95
+P00768,Huawei Accessories Model 768,Accessories,Lenovo,9775.48,7721.16
+P00769,Logitech Smartphones Model 769,Smartphones,Logitech,38028.7,28262.44
+P00770,Asus Smartphones Model 770,Smartphones,Apple,85290.79,47629.6
+P00771,Acer Laptops Model 771,Laptops,Xiaomi,121094.78,91343.57
+P00772,Apple Gaming Model 772,Gaming,LG,29133.42,19057.09
+P00773,Lenovo Gaming Model 773,Gaming,Lenovo,33885.49,27020.61
+P00774,Samsung Accessories Model 774,Accessories,Logitech,14043.22,8206.36
+P00775,Lenovo Gaming Model 775,Gaming,LG,45125.36,31822.45
+P00776,Sony Laptops Model 776,Laptops,Samsung,35787.1,24964.95
+P00777,Asus Accessories Model 777,Accessories,Asus,4554.39,2752.59
+P00778,LG TV Model 778,TV,Apple,115866.38,77385.0
+P00779,Huawei Smartphones Model 779,Smartphones,Logitech,134214.14,104954.85
+P00780,Huawei Headphones Model 780,Headphones,Logitech,39387.35,27236.98
+P00781,Apple TV Model 781,TV,LG,78659.59,46658.08
+P00782,Lenovo Accessories Model 782,Accessories,Lenovo,2855.82,2132.62
+P00783,Samsung TV Model 783,TV,Huawei,97847.9,69187.2
+P00784,Samsung Laptops Model 784,Laptops,Samsung,50850.53,35124.61
+P00785,Sony Smartphones Model 785,Smartphones,Apple,34979.13,23833.95
+P00786,Huawei TV Model 786,TV,Acer,128011.34,80210.21
+P00787,LG TV Model 787,TV,Huawei,157518.93,98888.68
+P00788,LG Laptops Model 788,Laptops,Acer,182423.86,110091.72
+P00789,LG TV Model 789,TV,Acer,154314.74,89632.0
+P00790,Acer Gaming Model 790,Gaming,Huawei,106219.8,69796.91
+P00791,Huawei Smartphones Model 791,Smartphones,Logitech,91931.38,55524.16
+P00792,Huawei Smartphones Model 792,Smartphones,Huawei,37077.32,20945.19
+P00793,LG Smartphones Model 793,Smartphones,Huawei,122918.43,69530.56
+P00794,Asus Smartphones Model 794,Smartphones,LG,124466.23,81969.36
+P00795,LG Laptops Model 795,Laptops,Samsung,184417.86,110706.1
+P00796,Apple Smartphones Model 796,Smartphones,Lenovo,75187.37,50481.42
+P00797,Logitech TV Model 797,TV,Asus,65762.83,41933.19
+P00798,Samsung Accessories Model 798,Accessories,Logitech,1390.99,841.04
+P00799,Xiaomi Smartphones Model 799,Smartphones,Apple,50925.14,33047.68
+P00800,Huawei Accessories Model 800,Accessories,LG,6055.01,3484.17
+P00801,Sony Laptops Model 801,Laptops,LG,170925.79,108460.95
+P00802,Apple Headphones Model 802,Headphones,LG,21739.96,15411.68
+P00803,Acer Headphones Model 803,Headphones,Logitech,7921.88,4774.15
+P00804,Logitech Smartphones Model 804,Smartphones,Asus,117518.34,80878.08
+P00805,Acer Laptops Model 805,Laptops,LG,227727.03,176070.91
+P00806,Lenovo Smartphones Model 806,Smartphones,Asus,102372.86,67186.77
+P00807,Asus Headphones Model 807,Headphones,Lenovo,25344.52,18881.86
+P00808,Samsung Headphones Model 808,Headphones,Samsung,14530.62,9817.18
+P00809,Samsung Smartphones Model 809,Smartphones,Apple,144230.04,114399.37
+P00810,Huawei Gaming Model 810,Gaming,Apple,7434.03,4290.13
+P00811,Huawei Smart Home Model 811,Smart Home,Asus,56495.78,39473.52
+P00812,Lenovo Smart Home Model 812,Smart Home,LG,19946.68,14747.65
+P00813,Lenovo Gaming Model 813,Gaming,Asus,7010.58,4528.42
+P00814,Xiaomi Accessories Model 814,Accessories,LG,13718.1,10225.21
+P00815,Asus Headphones Model 815,Headphones,Sony,27238.87,15367.27
+P00816,Huawei TV Model 816,TV,Acer,28451.43,15796.92
+P00817,Acer Smart Home Model 817,Smart Home,Samsung,46871.13,36565.37
+P00818,Sony Smartphones Model 818,Smartphones,Apple,116668.46,71687.2
+P00819,Apple Smart Home Model 819,Smart Home,Sony,57984.01,38059.1
+P00820,Sony TV Model 820,TV,Apple,94117.88,68964.05
+P00821,Huawei Accessories Model 821,Accessories,Asus,7383.86,4770.49
+P00822,Lenovo Smartphones Model 822,Smartphones,Asus,121693.23,88351.81
+P00823,LG TV Model 823,TV,Huawei,91042.66,59721.11
+P00824,LG Headphones Model 824,Headphones,Sony,13749.96,8727.05
+P00825,LG Gaming Model 825,Gaming,Asus,107615.06,70999.52
+P00826,Asus Gaming Model 826,Gaming,Huawei,62595.6,48561.41
+P00827,Xiaomi Accessories Model 827,Accessories,Logitech,5426.88,4002.08
+P00828,Huawei Smart Home Model 828,Smart Home,Logitech,7402.15,5704.27
+P00829,LG Accessories Model 829,Accessories,Lenovo,889.48,642.49
+P00830,Asus Accessories Model 830,Accessories,LG,2001.52,1508.82
+P00831,Huawei Laptops Model 831,Laptops,Samsung,237373.57,172461.41
+P00832,Huawei Smartphones Model 832,Smartphones,Sony,78029.37,52523.75
+P00833,LG Laptops Model 833,Laptops,Huawei,210653.32,125312.47
+P00834,Sony TV Model 834,TV,Acer,67668.99,51639.35
+P00835,Apple Headphones Model 835,Headphones,Asus,7773.84,5176.11
+P00836,Huawei Smart Home Model 836,Smart Home,Logitech,21019.33,13788.02
+P00837,Acer Laptops Model 837,Laptops,Xiaomi,112121.29,85650.28
+P00838,Xiaomi Smart Home Model 838,Smart Home,Asus,58601.7,42114.27
+P00839,Lenovo Smart Home Model 839,Smart Home,LG,37031.94,27358.52
+P00840,Lenovo Gaming Model 840,Gaming,LG,97295.77,66470.12
+P00841,Sony Laptops Model 841,Laptops,Acer,164739.32,96764.02
+P00842,Logitech Accessories Model 842,Accessories,Xiaomi,6943.14,5415.73
+P00843,LG Gaming Model 843,Gaming,Asus,47920.85,37072.67
+P00844,Xiaomi TV Model 844,TV,Logitech,28020.23,16787.92
+P00845,Xiaomi Gaming Model 845,Gaming,Samsung,70639.13,41305.49
+P00846,LG Headphones Model 846,Headphones,Samsung,10844.13,7740.92
+P00847,LG Smart Home Model 847,Smart Home,Huawei,34114.31,20959.57
+P00848,Logitech Headphones Model 848,Headphones,Sony,7713.3,5432.52
+P00849,Samsung Headphones Model 849,Headphones,Sony,5018.94,3198.21
+P00850,Lenovo Gaming Model 850,Gaming,Logitech,96875.01,76849.81
+P00851,Apple Accessories Model 851,Accessories,Logitech,4113.21,2606.77
+P00852,Xiaomi Laptops Model 852,Laptops,Logitech,132857.66,104872.11
+P00853,Lenovo Smartphones Model 853,Smartphones,Sony,59076.19,41254.81
+P00854,Apple Gaming Model 854,Gaming,LG,43976.63,25172.58
+P00855,Sony Smartphones Model 855,Smartphones,LG,62032.31,37287.62
+P00856,Asus Laptops Model 856,Laptops,Samsung,187401.85,141600.35
+P00857,Sony Smartphones Model 857,Smartphones,Huawei,126886.88,82812.7
+P00858,Samsung Smartphones Model 858,Smartphones,Asus,65350.44,47608.22
+P00859,LG Laptops Model 859,Laptops,Sony,238513.25,132158.27
+P00860,Asus Accessories Model 860,Accessories,Samsung,7679.39,6064.04
+P00861,Sony Smart Home Model 861,Smart Home,LG,54080.96,41442.86
+P00862,Asus Smart Home Model 862,Smart Home,Sony,22142.72,16239.06
+P00863,Logitech Gaming Model 863,Gaming,Acer,97879.3,73540.9
+P00864,LG Accessories Model 864,Accessories,Acer,3977.56,2410.84
+P00865,Asus TV Model 865,TV,Sony,179183.07,105164.35
+P00866,Asus TV Model 866,TV,Acer,128652.78,86028.69
+P00867,Xiaomi Laptops Model 867,Laptops,Logitech,89838.45,68530.4
+P00868,Huawei Accessories Model 868,Accessories,Lenovo,11459.65,7875.59
+P00869,Lenovo Headphones Model 869,Headphones,Apple,28483.86,15750.77
+P00870,Samsung Headphones Model 870,Headphones,Samsung,37902.15,30095.11
+P00871,Samsung Headphones Model 871,Headphones,LG,19906.3,14313.37
+P00872,Logitech Laptops Model 872,Laptops,Lenovo,32097.61,20797.06
+P00873,Apple Smartphones Model 873,Smartphones,Huawei,75443.94,54827.55
+P00874,Lenovo Laptops Model 874,Laptops,Asus,217612.54,148629.06
+P00875,Acer TV Model 875,TV,Sony,142632.84,99848.43
+P00876,Samsung Smart Home Model 876,Smart Home,LG,16458.12,11050.23
+P00877,Asus Laptops Model 877,Laptops,Logitech,210544.71,158605.4
+P00878,Apple Smart Home Model 878,Smart Home,Logitech,28388.47,15615.04
+P00879,Sony Headphones Model 879,Headphones,Huawei,33735.23,22119.23
+P00880,Acer Headphones Model 880,Headphones,Lenovo,38331.62,23300.39
+P00881,Logitech Smart Home Model 881,Smart Home,Apple,49933.72,36559.17
+P00882,Sony Smart Home Model 882,Smart Home,Xiaomi,49619.81,28368.46
+P00883,Huawei Accessories Model 883,Accessories,Huawei,11034.59,7894.43
+P00884,Asus Gaming Model 884,Gaming,Acer,81362.48,50770.04
+P00885,Acer TV Model 885,TV,Asus,58744.96,37072.43
+P00886,Apple TV Model 886,TV,Samsung,105029.9,77281.98
+P00887,Huawei Smartphones Model 887,Smartphones,Sony,67184.27,51549.08
+P00888,Xiaomi Gaming Model 888,Gaming,Sony,73201.6,45593.71
+P00889,LG TV Model 889,TV,LG,41009.99,30995.51
+P00890,Sony Headphones Model 890,Headphones,LG,32471.01,20920.35
+P00891,Lenovo TV Model 891,TV,Acer,174077.71,99477.34
+P00892,Xiaomi Headphones Model 892,Headphones,Samsung,12041.16,8034.77
+P00893,Asus Headphones Model 893,Headphones,Apple,6744.51,5123.45
+P00894,Sony Smartphones Model 894,Smartphones,Samsung,65375.05,42879.13
+P00895,Lenovo Gaming Model 895,Gaming,Sony,25677.41,19484.69
+P00896,Apple Smartphones Model 896,Smartphones,Xiaomi,113235.88,75926.83
+P00897,Asus Headphones Model 897,Headphones,Asus,27240.34,20847.6
+P00898,Xiaomi TV Model 898,TV,Xiaomi,84586.43,63746.52
+P00899,Huawei Smart Home Model 899,Smart Home,Sony,5164.08,3429.03
+P00900,Samsung Headphones Model 900,Headphones,Huawei,23842.16,14638.13
+P00901,Asus Smart Home Model 901,Smart Home,Huawei,31861.49,24333.17
+P00902,Lenovo Smart Home Model 902,Smart Home,Huawei,53249.02,34826.86
+P00903,Huawei TV Model 903,TV,Sony,168878.66,95662.29
+P00904,Huawei TV Model 904,TV,Sony,110128.54,85992.8
+P00905,Sony Smartphones Model 905,Smartphones,Huawei,95395.12,76267.98
+P00906,Huawei Smartphones Model 906,Smartphones,Xiaomi,121143.73,90732.54
+P00907,Samsung Accessories Model 907,Accessories,Huawei,9115.91,5094.88
+P00908,Samsung Gaming Model 908,Gaming,Samsung,115540.35,84739.0
+P00909,Lenovo Headphones Model 909,Headphones,Xiaomi,4528.63,3445.79
+P00910,Apple TV Model 910,TV,Acer,141896.16,112033.64
+P00911,LG Smart Home Model 911,Smart Home,Lenovo,32995.45,22094.28
+P00912,Samsung Headphones Model 912,Headphones,Acer,20231.0,11537.25
+P00913,Huawei Laptops Model 913,Laptops,Apple,33229.43,23763.13
+P00914,Samsung Smart Home Model 914,Smart Home,Lenovo,25680.59,19523.34
+P00915,Lenovo TV Model 915,TV,Apple,89344.11,71046.67
+P00916,Logitech Gaming Model 916,Gaming,Asus,107505.5,83723.72
+P00917,Apple TV Model 917,TV,Asus,119022.55,74655.36
+P00918,Acer TV Model 918,TV,Xiaomi,79474.61,61407.05
+P00919,Logitech Gaming Model 919,Gaming,LG,92065.8,59617.53
+P00920,LG Smartphones Model 920,Smartphones,Apple,49470.81,28495.63
+P00921,Xiaomi Accessories Model 921,Accessories,Huawei,1423.46,854.1
+P00922,Acer TV Model 922,TV,Huawei,107848.47,66018.08
+P00923,Acer Smartphones Model 923,Smartphones,Lenovo,73285.41,50798.2
+P00924,Samsung Gaming Model 924,Gaming,Sony,97897.93,71102.66
+P00925,Asus Smartphones Model 925,Smartphones,Logitech,144999.32,84797.86
+P00926,LG Accessories Model 926,Accessories,Xiaomi,14273.48,10910.52
+P00927,Huawei Smart Home Model 927,Smart Home,Samsung,15384.39,10834.67
+P00928,Samsung Accessories Model 928,Accessories,Samsung,8651.77,5628.88
+P00929,Samsung Headphones Model 929,Headphones,Xiaomi,39139.79,25240.94
+P00930,Sony Laptops Model 930,Laptops,Lenovo,154941.36,88685.42
+P00931,LG Laptops Model 931,Laptops,LG,121430.2,77043.36
+P00932,LG Accessories Model 932,Accessories,Apple,11248.03,6556.98
+P00933,Acer TV Model 933,TV,Sony,88355.44,62859.29
+P00934,Asus Headphones Model 934,Headphones,Logitech,24186.58,14007.21
+P00935,Lenovo Smart Home Model 935,Smart Home,Huawei,20260.54,14022.82
+P00936,Apple Gaming Model 936,Gaming,Sony,92047.98,53764.11
+P00937,Asus Smart Home Model 937,Smart Home,Apple,25902.52,19041.7
+P00938,Apple TV Model 938,TV,Xiaomi,136325.02,107129.11
+P00939,Asus Gaming Model 939,Gaming,Lenovo,37996.37,27052.28
+P00940,Samsung Gaming Model 940,Gaming,Asus,33502.76,23265.34
+P00941,Huawei TV Model 941,TV,Xiaomi,167139.41,124102.56
+P00942,Sony Smartphones Model 942,Smartphones,Acer,67259.99,50717.25
+P00943,Lenovo Smartphones Model 943,Smartphones,Huawei,82650.95,58810.08
+P00944,Samsung Gaming Model 944,Gaming,Apple,29971.29,21973.28
+P00945,Asus Headphones Model 945,Headphones,Sony,12690.76,7282.02
+P00946,Acer Gaming Model 946,Gaming,Apple,42078.55,28804.86
+P00947,Huawei TV Model 947,TV,Acer,47171.43,33598.56
+P00948,LG Accessories Model 948,Accessories,Huawei,1384.9,1107.02
+P00949,Xiaomi Headphones Model 949,Headphones,LG,4557.89,2978.5
+P00950,Sony Laptops Model 950,Laptops,Acer,63272.87,49274.38
+P00951,Lenovo Headphones Model 951,Headphones,Logitech,15312.97,8752.05
+P00952,Lenovo Smart Home Model 952,Smart Home,Xiaomi,42231.67,27520.11
+P00953,Lenovo Accessories Model 953,Accessories,Asus,5250.64,3292.95
+P00954,Asus Headphones Model 954,Headphones,Samsung,36784.8,24628.0
+P00955,Logitech Headphones Model 955,Headphones,Acer,23731.15,14489.68
+P00956,Apple Laptops Model 956,Laptops,Asus,226969.36,166372.06
+P00957,Logitech Gaming Model 957,Gaming,Lenovo,22049.97,14654.65
+P00958,Apple TV Model 958,TV,Logitech,149791.99,117414.51
+P00959,Huawei Smart Home Model 959,Smart Home,Sony,37402.46,28260.01
+P00960,Asus TV Model 960,TV,Logitech,132430.59,81944.31
+P00961,LG Accessories Model 961,Accessories,Logitech,5255.11,3359.74
+P00962,Logitech Smart Home Model 962,Smart Home,LG,51060.6,36233.04
+P00963,LG Smart Home Model 963,Smart Home,Samsung,41254.36,29512.96
+P00964,Asus Headphones Model 964,Headphones,LG,14351.43,9947.43
+P00965,Lenovo Smartphones Model 965,Smartphones,Sony,116901.7,67188.31
+P00966,Xiaomi TV Model 966,TV,Apple,156974.3,86765.48
+P00967,Xiaomi Smartphones Model 967,Smartphones,LG,129911.19,80550.59
+P00968,Xiaomi Headphones Model 968,Headphones,Acer,6870.65,5375.94
+P00969,Acer Smart Home Model 969,Smart Home,Samsung,2350.48,1529.59
+P00970,Asus TV Model 970,TV,Sony,40379.38,23340.87
+P00971,Sony Smart Home Model 971,Smart Home,Apple,42362.31,27443.5
+P00972,Huawei Laptops Model 972,Laptops,LG,104984.2,75074.11
+P00973,Sony Accessories Model 973,Accessories,Lenovo,12525.7,9093.84
+P00974,Huawei TV Model 974,TV,Samsung,43326.8,31828.77
+P00975,Xiaomi Headphones Model 975,Headphones,Sony,20268.3,11464.07
+P00976,Huawei Headphones Model 976,Headphones,Lenovo,38214.16,28216.94
+P00977,Apple Smartphones Model 977,Smartphones,LG,104826.6,77536.97
+P00978,Acer Gaming Model 978,Gaming,Huawei,71538.59,43639.14
+P00979,Acer Gaming Model 979,Gaming,LG,16805.09,9247.77
+P00980,Samsung Gaming Model 980,Gaming,Acer,69688.81,48792.59
+P00981,LG Gaming Model 981,Gaming,Sony,40450.17,29575.35
+P00982,Huawei Headphones Model 982,Headphones,Acer,34679.97,19275.36
+P00983,Apple Accessories Model 983,Accessories,Acer,13842.06,10079.32
+P00984,Apple TV Model 984,TV,Xiaomi,63236.67,45272.8
+P00985,Huawei Smart Home Model 985,Smart Home,Apple,59099.93,36816.86
+P00986,Asus Accessories Model 986,Accessories,Lenovo,9034.03,5667.5
+P00987,Logitech TV Model 987,TV,Sony,140039.9,87616.13
+P00988,Asus Headphones Model 988,Headphones,Sony,12767.64,9769.87
+P00989,Acer Smart Home Model 989,Smart Home,Sony,14725.29,8945.22
+P00990,Apple Accessories Model 990,Accessories,Logitech,1282.29,872.21
+P00991,Samsung Gaming Model 991,Gaming,Logitech,23915.69,14105.48
+P00992,Sony TV Model 992,TV,Samsung,94868.99,71250.59
+P00993,Huawei Accessories Model 993,Accessories,LG,1863.59,1312.32
+P00994,Xiaomi Smartphones Model 994,Smartphones,Logitech,91171.26,59045.87
+P00995,LG Headphones Model 995,Headphones,Lenovo,22515.17,16484.23
+P00996,Sony Smart Home Model 996,Smart Home,LG,26987.54,18238.92
+P00997,Asus Gaming Model 997,Gaming,Acer,49330.24,34365.51
+P00998,Logitech Accessories Model 998,Accessories,Huawei,9767.78,5699.78
+P00999,Acer Accessories Model 999,Accessories,Logitech,2899.91,2105.36
+P01000,Xiaomi Headphones Model 1000,Headphones,Xiaomi,4811.39,2906.9
