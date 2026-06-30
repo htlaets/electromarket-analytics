@@ -1,22 +1,22 @@
 # ElectroMarket Analytics
 
-## Project Overview
+## Описание проекта
 
-ElectroMarket Analytics is an end-to-end data analytics project for a fictional electronics marketplace.
+ElectroMarket Analytics — проект по анализу данных интернет-магазина электроники.
 
-The goal of the project is to analyze sales, customer behavior, product performance, marketing channels and customer retention.
+Цель проекта — исследование продаж, поведения клиентов, эффективности маркетинговых каналов и удержания покупателей с использованием Python и SQL.
 
-## Business Problem
+## Цель исследования
 
-The marketplace wants to understand:
+В рамках проекта проведен анализ, позволяющий ответить на следующие вопросы:
 
-- which product categories generate the most revenue;
-- which customers are the most valuable;
-- which acquisition channels bring loyal users;
-- what share of customers returns after the first purchase;
-- which customer segments are at risk of churn.
+- какие категории товаров приносят наибольшую выручку;
+- какие клиенты являются наиболее ценными;
+- какие каналы привлечения наиболее эффективны;
+- какова доля повторных покупок;
+- какие группы клиентов находятся в зоне риска оттока.
 
-## Tools Used
+## Используемые технологии
 
 - Python
 - pandas
@@ -25,20 +25,20 @@ The marketplace wants to understand:
 - matplotlib
 - seaborn
 - Jupyter Notebook
-- GitHub
+- Git
 
-## Dataset
+## Используемые данные
 
-The dataset was generated using Python and contains the following tables:
+Для проекта был сформирован набор данных, включающий следующие таблицы:
 
-- customers
-- products
-- orders
-- order_items
-- sessions
-- reviews
+- customers — информация о клиентах;
+- products — информация о товарах;
+- orders — заказы;
+- order_items — состав заказов;
+- sessions — посещения сайта;
+- reviews — отзывы покупателей.
 
-## Repository Structure
+## Структура проекта
 
 ```text
 data/
@@ -51,77 +51,80 @@ README.md
 requirements.txt
 ```
 
-## Key Metrics
+## Основные метрики
 
-The project analyzes the following metrics:
+В ходе анализа рассчитывались следующие показатели:
 
-- Revenue
-- Profit
-- Average Order Value
-- Repeat Purchase Rate
-- Cancellation Rate
-- Return Rate
-- Conversion Rate
-- Customer Segments
+- выручка;
+- прибыль;
+- средний чек;
+- доля повторных покупок;
+- коэффициент отмен заказов;
+- коэффициент возвратов;
+- конверсия;
+- сегментация клиентов.
 
-## Analysis Steps
+## Этапы выполнения проекта
 
-1. Data generation
-2. Data cleaning
-3. SQL analysis
-4. Exploratory data analysis
-5. RFM customer segmentation
-6. Business recommendations
+1. Генерация набора данных.
+2. Предварительная обработка данных.
+3. Анализ данных с помощью SQL.
+4. Исследовательский анализ данных (EDA).
+5. RFM-сегментация клиентов.
+6. Подготовка выводов и рекомендаций.
 
-## Key Insights
+## Основные результаты
 
-- Smartphones and Laptops generated the highest revenue.
-- Referral and Email customers demonstrated stronger loyalty.
-- Paid Ads generated many first-time customers but weaker retention.
-- RFM analysis helped identify Champions, Loyal Customers, At Risk and Lost Customers.
-- Retention campaigns should focus on At Risk customers.
+По итогам анализа были получены следующие выводы:
 
-## How to Run the Project
+- наибольшую выручку принесли категории «Смартфоны» и «Ноутбуки»;
+- клиенты, пришедшие по рекомендациям и через e-mail-рассылку, чаще совершают повторные покупки;
+- платная реклама привлекает большое количество новых пользователей, однако уровень их удержания ниже;
+- RFM-анализ позволил выделить наиболее ценных клиентов, постоянных покупателей, клиентов с риском оттока и потерянных клиентов;
+- для повышения удержания рекомендуется уделить внимание клиентам из группы риска.
 
-Clone the repository:
+## Запуск проекта
+
+Клонировать репозиторий:
 
 ```bash
 git clone https://github.com/htlaets/electromarket-analytics.git
 ```
 
-Open the project folder:
+Перейти в каталог проекта:
 
 ```bash
 cd electromarket-analytics
 ```
 
-Install dependencies:
+Установить необходимые зависимости:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Generate the dataset:
+Сгенерировать данные:
 
 ```bash
 python scripts/generate_data.py
 ```
 
-Run SQL analysis:
+Выполнить SQL-анализ:
 
 ```bash
 python scripts/run_sql_analysis.py
 ```
 
-## Project Results
+## Итоги
 
-As a result of the analysis, the project identifies the most profitable product categories, evaluates marketing channel performance and segments customers based on purchasing behavior.
+Проект демонстрирует полный цикл анализа данных: подготовку данных, выполнение SQL-запросов, исследовательский анализ, сегментацию клиентов методом RFM и формирование рекомендаций на основе полученных результатов.
 
-## Dashboard Preview
+## Пример дашборда
 
 ![Dashboard Preview](dashboard/screenshots/executive_overview.png)
 
-## Author
+## Автор
 
-htlaets  
-Data Analyst Portfolio Project
+**htlaets**
+
+Учебный проект по анализу данных.
